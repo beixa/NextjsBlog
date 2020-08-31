@@ -11,6 +11,7 @@
     "next": "9.5.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
+    "react-syntax-highlighter": "^13.5.1",
     "react-typography": "^0.16.19",
     "typeface-merriweather": "0.0.72",
     "typeface-open-sans": "0.0.75",

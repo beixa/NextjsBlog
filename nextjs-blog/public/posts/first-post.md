@@ -10,3 +10,5 @@ date: 2020-08-22
 ### h3
 
 Normal text
+
+![Cat](/giphy.gif)
