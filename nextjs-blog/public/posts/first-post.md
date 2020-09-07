@@ -11,4 +11,4 @@ date: 2020-08-22
 
 Normal text
 
-![Cat](/giphy.gif)
+![Cat](cat.jpg)
